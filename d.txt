@@ -1,4 +1,2 @@
-file d.txt
-hahaha2345
-hihi
+
 thẩm nhược hâm
