@@ -1,3 +1,2 @@
 file d.txt
-lala
-hahaha2345678
+hahaha2345
